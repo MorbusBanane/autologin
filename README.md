@@ -25,4 +25,8 @@ Origin 'http://localhost:3000' is therefore not allowed access.
 
 - Need help! 
 
+- Must learn ATOM and vsCode!
 - Must learn MarkDown!
+- Must learn GitHub!
+- Must learn GIT!
+- Need more help! 

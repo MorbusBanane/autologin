@@ -1,6 +1,6 @@
 # autologin
 automated login to a game website using reactJS 
-(no node, express, etc.)
+(no nodeJS, express, etc.)
 
 #HELP NEEDED
 
@@ -29,3 +29,5 @@ Origin 'http://localhost:3000' is therefore not allowed access.
 - Must learn GitHub!
 - Must learn GIT!
 - Need more help! 
+
+- Auf Deutsch geht's auch ;-)

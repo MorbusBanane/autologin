@@ -35,16 +35,15 @@ Origin 'http://localhost:3000' is therefore not allowed access.
 
 ##  ToDo-Liste
 
-  - [x] Learn Git
+  <!-- - [x] Learn Git
   - [x] Learn Atom
   - [x] Learn vsCode
-  - [ ] Learn MarkDown
+  - [ ] Learn MarkDown -->
 
-<!-- 
   - ☑ Learn Git
   - ☑Learn Atom
   - ☑Learn vsCode
-  - &#9752; Learn MarkDown -->
+  - &#9752; Learn MarkDown
 
 
 It's fun:

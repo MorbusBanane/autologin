@@ -1,7 +1,11 @@
-import React from "react";
-import { Component } from "react";
+import React          from "react";
+import { Component }  from "react";
 
-import axios from "axios";
+import axios          from "axios";
+
+import EvilError      from '../EvilError';
+import Navigation     from '../navigation/Navigation'
+
 // Url:				https://diesiedleronline.de
 // Welt:			Mittsommerstadt
 // Spieler:		MorbusBanane
@@ -35,18 +39,12 @@ class App extends Component {
 
     return (
       <div className="App">
+      <Navigation />
+
         Fehler!!!
         <br />
         <br />
-        Failed to load
-        https://www.diesiedleronline.de/:
-        Redirect from 'https://www.diesiedleronline.de/' to 'https://www.diesiedleronline.de/de'
-        has been blocked by CORS policy:
-        The 'Access-Control-Allow-Origin' header has a value 'https://www.diesiedleronline.de'
-        that is not equal to the supplied origin. Origin 'http://localhost:3000' is therefore not allowed access.
-        App.js:33 Error: Network Error
-          at createError (createError.js:16)
-          at XMLHttpRequest.handleError (xhr.js:87)
+        <EvilError />
         <br />
         <br />
         See console.log...

@@ -33,7 +33,7 @@ Origin 'http://localhost:3000' is therefore not allowed access.
 - Auf Deutsch geht's auch ;-)
   http://diesiedleronline.de
 
-##  ToDo-Liste
+###  Personal ToDo-List for Myself
 
   <!-- - [x] Learn Git
   - [x] Learn Atom
@@ -41,11 +41,12 @@ Origin 'http://localhost:3000' is therefore not allowed access.
   - [ ] Learn MarkDown -->
 
   - ☑ Learn Git
-  - ☑Learn Atom
-  - ☑Learn vsCode
+  - ☑ Learn Atom
+  - ☑ Learn vsCode
   - &#9752; Learn MarkDown
 
 
 It's fun:
 &#9883;   bla
 &#x269B;  blurz
+&#x1f60b;

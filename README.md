@@ -33,7 +33,14 @@ Origin 'http://localhost:3000' is therefore not allowed access.
 - Auf Deutsch geht's auch ;-)
   http://diesiedleronline.de
 
-  ##ToDo-Liste
+##ToDo-Liste
+
+  - [x] Learn Git
+  - [x] Learn Atom
+  - [x] Learn vsCode
+  - [ ] Learn MarkDown
+
+
   - ☑ Learn Git
   - ☑Learn Atom
   - ☑Learn vsCode

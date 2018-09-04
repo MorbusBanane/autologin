@@ -37,7 +37,7 @@ Origin 'http://localhost:3000' is therefore not allowed access.
   - ☑ Learn Git
   - ☑Learn Atom
   - ☑Learn vsCode
-  - ☐Learn MarkDown
+  - &#9752; Learn MarkDown
 
 &#9883;   bla
 &#x269B;  blurz

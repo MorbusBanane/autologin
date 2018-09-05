@@ -67,4 +67,4 @@ It's fun:
 - ☐ Practise GitHub!
 - ☒ Practise GitHub!
 - ☑ Practise GitHub!
-&#x1f60b; genug
+- &#x1f60b; genug

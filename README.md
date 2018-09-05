@@ -2,6 +2,7 @@
 automated login to a game website using javascript & reactJS
 
 #HELP NEEDED
+============
 The goal is to load a game start page, extract the input fields for username and password, set them correctly and submit to start the game. After a waiting period (for example 1 minute), a controlled logout is to be carried out by carrying out the steps provided for this purpose.
 
 Ziel ist es, eine Spiel-Startseite zu laden, extrahieren der eingabefelder für username und das  password, diese korrekt zu setzen und abzuschicken, um das Spiel zu starten. Nach einer Wartezeit (z.B. 1 Minute) soll ein kontrolliertes Ausloggen durch Durchführen der dafür vorgesehenen Schritte erfolgen.

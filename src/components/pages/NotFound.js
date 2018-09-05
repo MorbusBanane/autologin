@@ -1,7 +1,7 @@
 import React          from 'react'
 
-import { Button }     from 'semantic-ui-react'
-import { Container }  from 'semantic-ui-react'
+// import { Button }     from 'semantic-ui-react'
+// import { Container }  from 'semantic-ui-react'
 
 const styles = {
   root: {
@@ -15,19 +15,21 @@ const styles = {
 
 const NotFound = ( {location, history} ) => {
     return (
-      <Container>
+      // <Container>
         <div style={styles.root}>
           <h1>(404) {location.pathname} wurde nicht gefunden!</h1>
 
-          <Button
+          // <Button
+          <button
             // onClick={ () => history.push('/') }
             onClick={ () => history.goBack() }
           >
             Zurück
-          </Button>
+          </button>
+          // </Button>
         </div>
-      </Container>
+      // </Container>
   )
-} ;
+};
 
 export default NotFound

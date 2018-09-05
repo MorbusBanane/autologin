@@ -1,19 +1,19 @@
 import React  from "react"
 
-import { Container }  from 'semantic-ui-react'
+// import { Container }  from 'semantic-ui-react'
 
-import Status from "../messages/Status"
+// import Status from "../messages/Status"
 
 const Home = (props) => {
   // console.log("Home->props: ", props)
   return (
-    	<Container>
+    	// <Container>
       	<h3>Home</h3>
       	<p>Not Protected. Anyone can see it.</p>
 
-        <Status {...props} />
+        // <Status {...props} />
 
-			</Container>
+			// </Container>
 	)
 }
 

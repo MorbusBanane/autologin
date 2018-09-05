@@ -17,7 +17,8 @@ class App extends Component {
     super(props);
     this.state = {
       // url: 		'https://www.settlersonline.com',
-      url:        "https://www.diesiedleronline.de",
+      // url:     "https://www.diesiedleronline.de/de",
+      url:        "https://www.diesiedleronline.de/de",
       player: 		"MorbusBanane",
       pass: 			"?MorbusBanane?",
       step1: 			false,

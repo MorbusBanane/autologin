@@ -3,10 +3,9 @@ automated login to a game website using javascript & reactJS
 
 #HELP NEEDED
 ============
-The goal is to load a game start page, extract the input fields for username and password, set them correctly and submit to start the game. After a waiting period (for example 1 minute), a controlled logout is to be carried out by carrying out the steps provided for this purpose.
+The goal is to load a (game) start page, extract the input fields for username and password, set them correctly and submit to launch the page as an authenticated user. After a waiting period (e.g. 1 minute), a controlled logout is to be performed by carrying out the steps provided for this purpose.
 
-Ziel ist es, eine Spiel-Startseite zu laden, extrahieren der eingabefelder für username und das  password, diese korrekt zu setzen und abzuschicken, um das Spiel zu starten. Nach einer Wartezeit (z.B. 1 Minute) soll ein kontrolliertes Ausloggen durch Durchführen der dafür vorgesehenen Schritte erfolgen.
-
+Ziel ist es, eine (Spiel-)Startseite zu laden, extrahieren der Eingabefelder für Username und das Password, diese korrekt zu setzen und abzuschicken, um sich einzuloggen. Nach einer Wartezeit (z.B. 1 Minute) soll ein kontrolliertes Ausloggen per Durchführen der dafür vorgesehenen Schritte erfolgen.
 
 Problems:
 =========
@@ -16,6 +15,12 @@ Problems:
 - error:
 Failed to load http://www.settlersonline.com/:
 Redirect from 'http://www.settlersonline.com/' to 'http://settlersonline.com/' has been blocked by CORS policy:
+No 'Access-Control-Allow-Origin' header is present on the requested resource.
+Origin 'http://localhost:3000' is therefore not allowed access.
+
+- error
+Failed to load http://www.facebook.de/:
+Redirect from 'http://www.facebook.de/' to 'https://de-de.facebook.com/' has been blocked by CORS policy:
 No 'Access-Control-Allow-Origin' header is present on the requested resource.
 Origin 'http://localhost:3000' is therefore not allowed access.
 

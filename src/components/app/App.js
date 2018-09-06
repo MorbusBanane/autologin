@@ -18,9 +18,11 @@ class App extends Component {
     this.state = {
       // url: 		'https://www.settlersonline.com',
       // url:     "https://www.diesiedleronline.de/de",
-      url:        "https://www.diesiedleronline.de/de",
-      player: 		"MorbusBanane",
-      pass: 			"?MorbusBanane?",
+      // url:     "https://www.diesiedleronline.de/de",
+      // url:     "http://www.thorsten-bruening.de",
+      url:        "http://www.facebook.de",
+      player: 		"",
+      pass: 			"",
       step1: 			false,
       step2: 			false,
       step3: 			false,
@@ -53,5 +55,5 @@ class App extends Component {
     )
   }
 }
- 
+
 export default App;
